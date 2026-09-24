@@ -2,6 +2,9 @@
 
 Counter i Blazor 🤖✨ Varje klick på Counter-knappen anropar OpenAI på Azure som adderar 1 ➕1️⃣
 
+<img width="3560" height="2240" alt="2026-09-24 23 00 35" src="https://github.com/user-attachments/assets/bc6947ab-6b7d-4e3f-81ab-fbb8c411c105" />
+
+
 ## Köra 🚀
 
 1. Kopiera env filen 📋
